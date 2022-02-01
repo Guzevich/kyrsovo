@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<topic template="Default" lasteditedby="Dell" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title translate="true">Справка</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text styleclass="Heading1" translate="true">Справка</text></para>
+    </header>
+    <para styleclass="Normal"><text styleclass="Normal" translate="true">1 </text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;" translate="true">После запуска на экране появляется заставка</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;" translate="true">2 Затем появляется и главная форма &#160;благодаря которой &#160;можно увидеть &#160;меню, с помощью которого можно перейти на окна с теорией.</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;" translate="true">3После того нажатия на кнопку «Узнать больше», появится окно с выбранным материалом .</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;" translate="true">4 Выбрав раздел </text><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;" translate="true">«Видео» можно ознакомиться с видео материалом.</text></para>
+    <para styleclass="Normal"><text style="font-family:&apos;Times New Roman&apos;; font-size:14pt; color:#000000;" translate="true">5 В любой момент пользователь может вызвать справку и узнать подробней о программе, разработчике .</text></para>
+  </body>
+</topic>
